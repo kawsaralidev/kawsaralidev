@@ -1,14 +1,3 @@
-<!-- ========================= HEADER ========================= -->
-
-<h1 align="center">Hi 👋, I'm Kawsar Ali</h1>
-
-<h3 align="center">
-Full Stack Developer | MERN Stack Developer
-</h3>
-
-<p align="center">
-Passionate about building modern, scalable and user-friendly web applications.
-</p>
 
 <!-- ========================= BANNER ========================= -->
 
