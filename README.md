@@ -13,7 +13,7 @@ Passionate about building modern, scalable and user-friendly web applications.
 <!-- ========================= BANNER ========================= -->
 
 <p align="center">
-<img src="YOUR_BANNER_IMAGE_LINK_HERE" alt="Banner" width="100%">
+<img src="https://ibb.co.com/VpHJvZPV" alt="Banner" width="100%">
 </p>
 
 ---
