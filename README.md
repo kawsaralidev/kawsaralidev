@@ -115,15 +115,23 @@ Currently, I'm learning **Next.js** while continuously improving my full-stack d
 
 <p align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=kawsaralidev&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=1800"/>
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kawsaralidev&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=1800"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kawsaralidev&theme=github_dark"/>
 
 </p>
 
 <p align="center">
 
-<img src="https://streak-stats.demolab.com?user=kawsaralidev&theme=tokyonight&hide_border=true"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=kawsaralidev&theme=github_dark"/>
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=kawsaralidev&theme=github_dark"/>
+
+</p>
+
+<p align="center">
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=kawsaralidev&theme=github_dark"/>
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=kawsaralidev&theme=github_dark&utcOffset=6"/>
 
 </p>
 ---
