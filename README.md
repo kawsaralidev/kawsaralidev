@@ -3,7 +3,7 @@
 
 <p align="center">
   <img
-    src="https://i.ibb.co/3Yf40qL1/github-banner.png"
+    src="https://i.ibb.co.com/5CPsmqh/githubbanner.png"
     alt="Kawsar Ali Banner"
     width="100%"
   />
@@ -111,27 +111,16 @@ Currently, I'm learning **Next.js** while continuously improving my full-stack d
 </p>
 
 ---
-
 # 📊 GitHub Stats
 
 <p align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=kawsaralidev&show_icons=true&theme=github_dark&hide_border=true&rank_icon=github" />
 
-<img src="https://github-readme-stats.vercel.app/api?username=kawsaralidev&show_icons=true&theme=blue-green"/>
-
-<img src="https://streak-stats.demolab.com/?user=kawsaralidev&theme=blue-green"/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kawsaralidev&layout=compact&theme=blue-green"/>
-
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kawsaralidev&layout=compact&theme=github_dark&hide_border=true" />
 </p>
 
----
-
-# 🏆 GitHub Trophies
-
 <p align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=kawsaralidev&theme=radical&no-frame=true&no-bg=true"/>
-
+  <img src="https://streak-stats.demolab.com?user=kawsaralidev&theme=github-dark-blue&hide_border=true" />
 </p>
 
 ---
