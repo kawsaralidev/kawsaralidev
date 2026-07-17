@@ -12,7 +12,7 @@
 ---
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=600&color=6A5ACD&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;MERN+Stack+Developer;Currently+Learning+Next.js;Open+to+Work" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=500&color=6A5ACD&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;MERN+Stack+Developer;Currently+Learning+Next.js;Open+to+Work" />
 </p>
 
 # 👨‍💻 About Me
@@ -147,3 +147,6 @@ Currently, I'm learning **Next.js** while continuously improving my full-stack d
 <img src="https://komarev.com/ghpvc/?username=kawsaralidev&label=Profile%20Views&color=0e75b6&style=flat"/>
 
 </p>
+
+⭐ Thanks for visiting my profile.
+Feel free to connect with me.
