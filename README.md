@@ -148,8 +148,6 @@ Currently, I'm learning **Next.js** while continuously improving my full-stack d
 </p>
 ---
 
-# 👀 Profile Views
-
 <p align="center">
 
 <img src="https://komarev.com/ghpvc/?username=kawsaralidev&label=Profile%20Views&color=0e75b6&style=flat"/>
