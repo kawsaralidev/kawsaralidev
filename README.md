@@ -68,7 +68,9 @@ Currently, I'm learning **Next.js** while continuously improving my full-stack d
 
 <p>
 
-<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,bootstrap"/>
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,bootstrap,materialui"/>
+
+<img src="https://img.shields.io/badge/Shadcn_UI-000000?style=for-the-badge&logo=shadcnui&logoColor=white"/>
 
 </p>
 
@@ -85,6 +87,10 @@ Currently, I'm learning **Next.js** while continuously improving my full-stack d
 <p>
 
 <img src="https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=jsonwebtokens"/>
+
+<img src="https://img.shields.io/badge/Axios-5A29E4?style=for-the-badge&logo=axios&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/Nodemon-76D04B?style=for-the-badge&logo=nodemon&logoColor=white"/>
 
 </p>
 
@@ -106,11 +112,13 @@ Currently, I'm learning **Next.js** while continuously improving my full-stack d
 
 <p>
 
-<img src="https://skillicons.dev/icons?i=firebase,vercel,git,github"/>
+<img src="https://skillicons.dev/icons?i=firebase,vercel,git,github,vscode,npm,postman"/>
 
 <img src="https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=white"/>
 
 <img src="https://img.shields.io/badge/WordPress-117AC9?style=for-the-badge&logo=wordpress&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/Elementor_Pro-92003B?style=for-the-badge&logo=elementor&logoColor=white"/>
 
 </p>
 
