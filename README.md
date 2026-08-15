@@ -40,7 +40,7 @@ Currently, I'm learning **Next.js** while continuously improving my full-stack d
 # 📫 Contact
 
 - 📧 **Email:** mdkawsarali346@gmail.com
-- 🌐 **Portfolio:** https://new-portfolio-bchd.vercel.app/
+- 🌐 **Portfolio:** https://kawsarali-portfolio.vercel.app
 - 💼 **LinkedIn:** https://linkedin.com/in/kawsaralidev
 - 📍 **Location:** Bangladesh
 
